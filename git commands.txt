@@ -1,0 +1,13 @@
+git clone <link>
+git remote -v 
+git remote add origin main <link>
+git push origin main
+git pull origin main
+git init
+git status
+git add <file name>
+git commit -m "<your message>"
+git config --global user.email "yourmail@mail.ru"
+git config --global user.name "yourname"
+git checkout -b <new_bramch_name>
+git branch <changed_branch_name>
